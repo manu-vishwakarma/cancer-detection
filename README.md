@@ -94,6 +94,3 @@ You need to have installed following softwares and libraries before running this
 * __scipy:__ SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
     * pip install scipy
     * conda install -c anaconda scipy
-    
-# 6. Authors
-• Manu Vishwakarma - Complete work
