@@ -96,4 +96,4 @@ You need to have installed following softwares and libraries before running this
     * conda install -c anaconda scipy
     
 # 6. Authors
-• Manish Vishwakarma - Complete work
+• Manu Vishwakarma - Complete work
